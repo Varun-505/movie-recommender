@@ -1,0 +1,101 @@
+movieId,title,genres
+1,"Toy Story (1995)",Animation|Children|Comedy
+2,"Jumanji (1995)",Adventure|Children|Fantasy
+3,"Grumpier Old Men (1995)",Comedy|Romance
+4,"Waiting to Exhale (1995)",Comedy|Drama|Romance
+5,"Father of the Bride Part II (1995)",Comedy
+6,"Heat (1995)",Action|Crime|Thriller
+7,"Sabrina (1995)",Comedy|Romance
+8,"Tom and Huck (1995)",Adventure|Children
+9,"Sudden Death (1995)",Action
+10,"GoldenEye (1995)",Action|Adventure|Thriller
+11,"American President, The (1995)",Comedy|Drama|Romance
+12,"Dracula: Dead and Loving It (1995)",Comedy|Horror
+13,"Balto (1995)",Animation|Children
+14,"Nixon (1995)",Drama|History
+15,"Cutthroat Island (1995)",Action|Adventure|Romance
+16,"Casino (1995)",Crime|Drama
+17,"Sense and Sensibility (1995)",Drama|Romance
+18,"Four Rooms (1995)",Comedy
+19,"Ace Ventura: When Nature Calls (1995)",Comedy
+20,"Money Train (1995)",Action|Comedy|Crime
+21,"Get Shorty (1995)",Comedy|Crime
+22,"Copycat (1995)",Crime|Drama|Thriller
+23,"Assassins (1995)",Action|Thriller
+24,"Powder (1995)",Drama|Sci-Fi
+25,"Leaving Las Vegas (1995)",Drama|Romance
+26,"Othello (1995)",Drama|Romance
+27,"Now and Then (1995)",Children|Drama
+28,"Persuasion (1995)",Drama|Romance
+29,"City of Lost Children, The (1995)",Adventure|Drama|Sci-Fi
+30,"Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)",Crime|Drama
+31,"Some Like It Hot (1959)",Comedy|Romance
+32,"Back to the Future (1985)",Adventure|Comedy|Sci-Fi
+33,"Forrest Gump (1994)",Drama|Romance
+34,"The Shawshank Redemption (1994)",Drama
+35,"The Godfather (1972)",Crime|Drama
+36,"The Dark Knight (2008)",Action|Crime|Drama
+37,"Pulp Fiction (1994)",Crime|Drama
+38,"Gladiator (2000)",Action|Adventure|Drama
+39,"Inception (2010)",Action|Sci-Fi|Thriller
+40,"The Matrix (1999)",Action|Sci-Fi
+41,"Interstellar (2014)",Adventure|Drama|Sci-Fi
+42,"Avengers: Endgame (2019)",Action|Adventure|Sci-Fi
+43,"Parasite (2019)",Comedy|Drama|Thriller
+44,"Joker (2019)",Crime|Drama|Thriller
+45,"Titanic (1997)",Drama|Romance
+46,"Star Wars: Episode IV - A New Hope (1977)",Action|Adventure|Sci-Fi
+47,"The Lion King (1994)",Animation|Children|Drama
+48,"Jurassic Park (1993)",Action|Adventure|Sci-Fi
+49,"Fight Club (1999)",Drama
+50,"The Silence of the Lambs (1991)",Crime|Drama|Thriller
+51,"The Avengers (2012)",Action|Adventure|Sci-Fi
+52,"Iron Man (2008)",Action|Adventure|Sci-Fi
+53,"Black Panther (2018)",Action|Adventure|Sci-Fi
+54,"Spider-Man: Into the Spider-Verse (2018)",Animation|Action|Adventure
+55,"Deadpool (2016)",Action|Comedy
+56,"Guardians of the Galaxy (2014)",Action|Adventure|Comedy
+57,"Doctor Strange (2016)",Action|Adventure|Fantasy
+58,"Thor: Ragnarok (2017)",Action|Adventure|Comedy
+59,"Captain Marvel (2019)",Action|Adventure|Sci-Fi
+60,"Avengers: Infinity War (2018)",Action|Adventure|Sci-Fi
+61,"The Lord of the Rings: The Fellowship of the Ring (2001)",Adventure|Drama|Fantasy
+62,"The Lord of the Rings: The Two Towers (2002)",Adventure|Drama|Fantasy
+63,"The Lord of the Rings: The Return of the King (2003)",Adventure|Drama|Fantasy
+64,"Harry Potter and the Sorcerer's Stone (2001)",Adventure|Family|Fantasy
+65,"Harry Potter and the Chamber of Secrets (2002)",Adventure|Family|Fantasy
+66,"Harry Potter and the Prisoner of Azkaban (2004)",Adventure|Family|Fantasy
+67,"Harry Potter and the Goblet of Fire (2005)",Adventure|Family|Fantasy
+68,"Harry Potter and the Order of the Phoenix (2007)",Adventure|Family|Fantasy
+69,"Harry Potter and the Half-Blood Prince (2009)",Adventure|Family|Fantasy
+70,"Harry Potter and the Deathly Hallows: Part 1 (2010)",Adventure|Family|Fantasy
+71,"Harry Potter and the Deathly Hallows: Part 2 (2011)",Adventure|Family|Fantasy
+72,"The Hobbit: An Unexpected Journey (2012)",Adventure|Fantasy
+73,"The Hobbit: The Desolation of Smaug (2013)",Adventure|Fantasy
+74,"The Hobbit: The Battle of the Five Armies (2014)",Adventure|Fantasy
+75,"The Hunger Games (2012)",Adventure|Sci-Fi|Thriller
+76,"The Hunger Games: Catching Fire (2013)",Adventure|Sci-Fi|Thriller
+77,"The Hunger Games: Mockingjay - Part 1 (2014)",Adventure|Sci-Fi|Thriller
+78,"The Hunger Games: Mockingjay - Part 2 (2015)",Adventure|Sci-Fi|Thriller
+79,"Avatar (2009)",Action|Adventure|Fantasy
+80,"Avatar: The Way of Water (2022)",Action|Adventure|Fantasy
+81,"The Incredibles (2004)",Animation|Action|Adventure
+82,"Finding Nemo (2003)",Animation|Children|Adventure
+83,"Up (2009)",Animation|Adventure|Comedy
+84,"Inside Out (2015)",Animation|Adventure|Comedy|Drama
+85,"WALL·E (2008)",Animation|Adventure|Sci-Fi
+86,"Moana (2016)",Animation|Adventure|Family
+87,"Brave (2012)",Animation|Adventure|Family
+88,"Tangled (2010)",Animation|Adventure|Comedy
+89,"Zootopia (2016)",Animation|Adventure|Comedy
+90,"Frozen (2013)",Animation|Adventure|Comedy
+91,"Shrek (2001)",Animation|Adventure|Comedy
+92,"Shrek 2 (2004)",Animation|Adventure|Comedy
+93,"Shrek the Third (2007)",Animation|Adventure|Comedy
+94,"Minions (2015)",Animation|Adventure|Comedy
+95,"Despicable Me (2010)",Animation|Adventure|Comedy
+96,"Despicable Me 2 (2013)",Animation|Adventure|Comedy
+97,"Kung Fu Panda (2008)",Animation|Adventure|Comedy
+98,"Kung Fu Panda 2 (2011)",Animation|Adventure|Comedy
+99,"Kung Fu Panda 3 (2016)",Animation|Adventure|Comedy
+100,"How to Train Your Dragon (2010)",Animation|Adventure|Family
