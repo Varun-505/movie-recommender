@@ -5,7 +5,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 A simple, interactive **Movie Recommender System** built with **Python, Pandas, Scikit-learn, and Streamlit**.  
-This project recommends movies to users based on **cosine similarity** of user ratings.
+This project recommends movies to users based on **Genre (or)cosine similarity** of user ratings.
 
 ---
 
@@ -68,9 +68,7 @@ python generate_ratings.py
 
 5️⃣ Run the app
 
-bash
 streamlit run app.py
-
 
 * Open the URL displayed in your browser (usually `http://localhost:8501`).
 * Select a movie from the dropdown and click **Recommend**.
@@ -78,15 +76,15 @@ streamlit run app.py
 
 ## 📂 Project Structure
 
-movie-recommender/
-├── app.py                 # Streamlit app
-├── recommender.py         # Recommendation logic
-├── generate_ratings.py    # Ratings CSV generator
-├── requirements.txt       # Dependencies
-├── README.md              # Project description
-└── data/
-    ├── movies.csv         # Movie dataset
-    └── ratings.csv        # User ratings dataset
+#movie-recommender/
+#├── app.py                 # Streamlit app
+#├── recommender.py         # Recommendation logic
+#├── generate_ratings.py    # Ratings CSV generator
+#├── requirements.txt       # Dependencies
+#├── README.md              # Project description
+#└── data/
+    #├── movies.csv         # Movie dataset
+    #└── ratings.csv        # User ratings dataset
 
 ## ⚡ Future Improvements
 
