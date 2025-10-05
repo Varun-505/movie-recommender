@@ -86,7 +86,7 @@ movie-recommender/
 └── data/
     ├── movies.csv         # Movie dataset
     └── ratings.csv        # User ratings dataset
-
+```
 
 ## ⚡ Future Improvements
 
