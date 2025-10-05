@@ -47,7 +47,7 @@ This project recommends movies to users based on **Genre (or)cosine similarity**
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/Varun-505/movie-recommender.git
 cd movie-recommender
 
 ### 2️⃣ Set up Python environment
@@ -76,15 +76,17 @@ streamlit run app.py
 
 ## 📂 Project Structure
 
-#movie-recommender/
-#├── app.py                 # Streamlit app
-#├── recommender.py         # Recommendation logic
-#├── generate_ratings.py    # Ratings CSV generator
-#├── requirements.txt       # Dependencies
-#├── README.md              # Project description
-#└── data/
-    #├── movies.csv         # Movie dataset
-    #└── ratings.csv        # User ratings dataset
+```text
+movie-recommender/
+├── app.py                 # Streamlit app
+├── recommender.py         # Recommendation logic
+├── generate_ratings.py    # Ratings CSV generator
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
+└── data/
+    ├── movies.csv         # Movie dataset
+    └── ratings.csv        # User ratings dataset
+
 
 ## ⚡ Future Improvements
 
